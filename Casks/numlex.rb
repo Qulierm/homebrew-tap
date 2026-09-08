@@ -1,10 +1,10 @@
 cask "numlex" do
-  version "4.5.1"
+  version "4.7.0"
   desc "Natural-calculation notebook for the Mac: math, unit, currency and weather in one plain-text sheet"
   homepage "https://github.com/Qulierm/Numlex"
 
-  url "https://github.com/Qulierm/Numlex/releases/download/4.5.1/Numlex-4.5.1-macOS-arm64.dmg"
-  sha256 "2d6a878030c64cbfd28e0597908191b47178103b71fcd5e7be0d3d5df63d4bf5"
+  url "https://github.com/Qulierm/Numlex/releases/download/4.7.0/Numlex-4.7.0-macOS-arm64.dmg"
+  sha256 "0e7c4605059675702cfaef72dafdfea9b63f47b996866c0522ad43b5c724fe76"
 
   name "Numlex"
 
