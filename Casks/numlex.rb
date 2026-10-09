@@ -1,8 +1,10 @@
-cask "numlex" do
-  version "4.9.5"
-  sha256 "47228bb2ce0e45be294b529a5b879df2b51d07a7d9c34ea898176729c48861b9"
+# frozen_string_literal: true
 
-  url "https://github.com/Qulierm/Numlex/releases/download/4.9.5/Numlex-4.9.5-macOS-arm64.dmg"
+cask "numlex" do
+  version "4.9.6"
+  sha256 "0937e088e5a4351ce4dfcbb9e67826952114cbebbb8b86ab0c702e0c31ee0524"
+
+  url "https://github.com/Qulierm/Numlex/releases/download/4.9.6/Numlex-4.9.6-macOS-arm64.dmg"
   name "Numlex"
   desc "Notepad calculator with live math, units, currencies and dates"
   homepage "https://github.com/Qulierm/Numlex"
